@@ -1,0 +1,26 @@
+
+html{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5{
+    color: darkslategrey;
+    text-align: center;
+}
+
+.w-650{
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 650px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.al-center{
+    display: block;
+    text-align: center;
+}
+.mb-150{
+    margin-bottom: 150px;
+}
